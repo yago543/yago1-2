@@ -1,4 +1,4 @@
-# print("=== CALCULADORA ===")
+print("=== CALCULADORA ===")
 
 while True:
     print("\n1 - Somar")
@@ -36,4 +36,4 @@ while True:
             continue
         resultado = n1 / n2
 
-    print("Resultado:", resultado)-2
+    print("Resultado:", resultado)
